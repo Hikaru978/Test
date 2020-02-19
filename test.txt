@@ -1,3 +1,8 @@
 Following teach Vince's instruction
 2nd change made to this file to test commit
+<<<<<<< HEAD
 987654
+=======
+
+2020-02-19
+>>>>>>> b9e5827292f2b8d42b0d64b6fbd3d8f084b6c7ac
